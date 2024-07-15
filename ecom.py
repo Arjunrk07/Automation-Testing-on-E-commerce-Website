@@ -286,7 +286,3 @@ print(success_text.text)
 time.sleep(1)
 
 driver.close()
-
-
-
-#Each inputs / data feeds (ex: website, username, password, mobile no, product name, etc.,)must be provided through a file linked with code and neither to be entered manually nor to be included in the code FOR SELENIUM
